@@ -2,7 +2,7 @@
 
 ## Grace Hopper Image with HTML 
 
-### Requerimientos a Validar
+### Realizar:
 Replicar la imagen que muestra la información de Grace Hopper indicado usando HTML
 
 > ©ByLourdesVílchez
